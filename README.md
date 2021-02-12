@@ -25,13 +25,14 @@ I used correlation matrix to visualize and show relationship between house rates
 
 Used scatter plots to show the distribution of housing units in relation to insecurity rates as a way of answering the first question.
 
-Later used linear regression from sklearn python package to train a price prediction model
+Later used linear regression from sklearn python package to train a price prediction model. 
+
+Calculated the Coefficient of Determination (R Squared) to test the accuracy of the model when it comes to predicting correct values.
 
 
 ### To Do list:
 
-The project is still on progress and some of the key remaining objectives include:
+The project is still on progress and the key remaining objective is:
 
-- **Model Performance Testing**
 - **Improving the Model for Better performance**
 
